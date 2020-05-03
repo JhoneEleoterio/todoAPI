@@ -1,2 +1,2 @@
-# apiTarefa
-Exemplo usando DDD, ODatav4, Serilog, Mediator
+# TodoAPI
+Aplicando o estudo de CQRS, Mediator, Serilog, OpenAPI
